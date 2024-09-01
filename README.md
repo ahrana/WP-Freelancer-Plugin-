@@ -43,10 +43,22 @@ Please refer to the documentation provided in the plugin admin page or contact s
 
 ## Screenshots
 
+
 1. Screenshot of the WP Freelancer Admin Dashboard.
 2. Screenshot of the "Create New Project" form.
 3. Screenshot of the "Add New Invoice" page.
 4. Screenshot of the progress tracking and expenses management.
+
+   
+![Screenshot-5](https://github.com/user-attachments/assets/8755ce6a-93d1-4ff6-98fa-c1c3226ad206)
+
+![Screenshot-4](https://github.com/user-attachments/assets/fa65cd80-49e7-4274-b50e-6cd630fd7a59)
+
+![Screenshot-3](https://github.com/user-attachments/assets/df1c1724-514b-4d4a-bdbd-9869440fe96b)
+
+![Screenshot-2](https://github.com/user-attachments/assets/fe650dfc-8274-47e6-8353-ff8c2a0cf3af)
+
+![Screenshot-1](https://github.com/user-attachments/assets/e4b4c76c-e8c4-4d8a-911c-56b2a47ad1fc)
 
 ## Changelog
 
